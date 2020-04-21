@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Template\library\src\main\assets"/><source path="D:\Template\library\build\intermediates\shader_assets\liteav_debug\compileLiteav_debugShaders\out"/></dataSet><dataSet config="liteav_debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Template\library\src\liteav_debug\assets"/></dataSet></merger>

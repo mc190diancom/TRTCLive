@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Template\library\src\main\res"/><source path="D:\Template\library\build\generated\res\rs\debug"/><source path="D:\Template\library\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Template\library\src\main\res"><file name="dialog_enter" path="D:\Template\library\src\main\res\anim\dialog_enter.xml" qualifiers="" type="anim"/><file name="dialog_exit" path="D:\Template\library\src\main\res\anim\dialog_exit.xml" qualifiers="" type="anim"/><file name="fade_in" path="D:\Template\library\src\main\res\anim\fade_in.xml" qualifiers="" type="anim"/><file name="fade_out" path="D:\Template\library\src\main\res\anim\fade_out.xml" qualifiers="" type="anim"/><file name="pickerview_dialog_scale_in" path="D:\Template\library\src\main\res\anim\pickerview_dialog_scale_in.xml" qualifiers="" type="anim"/><file name="pickerview_dialog_scale_out" path="D:\Template\library\src\main\res\anim\pickerview_dialog_scale_out.xml" qualifiers="" type="anim"/><file name="pickerview_slide_in_bottom" path="D:\Template\library\src\main\res\anim\pickerview_slide_in_bottom.xml" qualifiers="" type="anim"/><file name="pickerview_slide_out_bottom" path="D:\Template\library\src\main\res\anim\pickerview_slide_out_bottom.xml" qualifiers="" type="anim"/><file name="slide_in_from_bottom" path="D:\Template\library\src\main\res\anim\slide_in_from_bottom.xml" qualifiers="" type="anim"/><file name="slide_out_to_bottom" path="D:\Template\library\src\main\res\anim\slide_out_to_bottom.xml" qualifiers="" type="anim"/><file name="wait" path="D:\Template\library\src\main\res\anim\wait.xml" qualifiers="" type="anim"/><file name="bg_btn_confirm_remove_enable" path="D:\Template\library\src\main\res\drawable\bg_btn_confirm_remove_enable.xml" qualifiers="" type="drawable"/><file name="bg_common_button_shape" path="D:\Template\library\src\main\res\drawable\bg_common_button_shape.xml" qualifiers="" type="drawable"/><file name="bg_confirm_remove_selector" path="D:\Template\library\src\main\res\drawable\bg_confirm_remove_selector.xml" qualifiers="" type="drawable"/><file name="dialog_btn_cancel" path="D:\Template\library\src\main\res\drawable\dialog_btn_cancel.xml" qualifiers="" type="drawable"/><file name="dialog_btn_ok" path="D:\Template\library\src\main\res\drawable\dialog_btn_ok.xml" qualifiers="" type="drawable"/><file name="horizontal_divider" path="D:\Template\library\src\main\res\drawable\horizontal_divider.xml" qualifiers="" type="drawable"/><file name="list_item_bg" path="D:\Template\library\src\main\res\drawable\list_item_bg.xml" qualifiers="" type="drawable"/><file name="title_btn_bg" path="D:\Template\library\src\main\res\drawable\title_btn_bg.xml" qualifiers="" type="drawable"/><file name="toggle_btn" path="D:\Template\library\src\main\res\drawable\toggle_btn.xml" qualifiers="" type="drawable"/><file name="widget_input_clear" path="D:\Template\library\src\main\res\drawable\widget_input_clear.xml" qualifiers="" type="drawable"/><file name="bg_btn_confirm_remove_disabled" path="D:\Template\library\src\main\res\drawable-xhdpi\bg_btn_confirm_remove_disabled.png" qualifiers="xhdpi-v4" type="drawable"/><file name="bg_et_remove_reason" path="D:\Template\library\src\main\res\drawable-xhdpi\bg_et_remove_reason.png" qualifiers="xhdpi-v4" type="drawable"/><file name="bg_switch" path="D:\Template\library\src\main\res\drawable-xhdpi\bg_switch.png" qualifiers="xhdpi-v4" type="drawable"/><file name="bg_switch_inspect_warning" path="D:\Template\library\src\main\res\drawable-xhdpi\bg_switch_inspect_warning.png" qualifiers="xhdpi-v4" type="drawable"/><file name="dialog_bg" path="D:\Template\library\src\main\res\drawable-xhdpi\dialog_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="dialog_cancel_btn_off" path="D:\Template\library\src\main\res\drawable-xhdpi\dialog_cancel_btn_off.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="dialog_cancel_btn_on" path="D:\Template\library\src\main\res\drawable-xhdpi\dialog_cancel_btn_on.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="dialog_ok_btn_off" path="D:\Template\library\src\main\res\drawable-xhdpi\dialog_ok_btn_off.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="dialog_ok_btn_on" path="D:\Template\library\src\main\res\drawable-xhdpi\dialog_ok_btn_on.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="dingwei_hangye" path="D:\Template\library\src\main\res\drawable-xhdpi\dingwei_hangye.png" qualifiers="xhdpi-v4" type="drawable"/><file name="divider" path="D:\Template\library\src\main\res\drawable-xhdpi\divider.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_arrow_back_white_24dp" path="D:\Template\library\src\main\res\drawable-xhdpi\ic_arrow_back_white_24dp.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_close_bottom_dialog" path="D:\Template\library\src\main\res\drawable-xhdpi\ic_close_bottom_dialog.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_down" path="D:\Template\library\src\main\res\drawable-xhdpi\ic_down.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_fullscreen_grey_400_24dp" path="D:\Template\library\src\main\res\drawable-xhdpi\ic_fullscreen_grey_400_24dp.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_go" path="D:\Template\library\src\main\res\drawable-xhdpi\ic_go.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_switch_thumb" path="D:\Template\library\src\main\res\drawable-xhdpi\ic_switch_thumb.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_switch_thumb_inspect_warning" path="D:\Template\library\src\main\res\drawable-xhdpi\ic_switch_thumb_inspect_warning.png" qualifiers="xhdpi-v4" type="drawable"/><file name="input_clear" path="D:\Template\library\src\main\res\drawable-xhdpi\input_clear.png" qualifiers="xhdpi-v4" type="drawable"/><file name="pc_fenbu" path="D:\Template\library\src\main\res\drawable-xhdpi\pc_fenbu.png" qualifiers="xhdpi-v4" type="drawable"/><file name="pc_trace_head_car" path="D:\Template\library\src\main\res\drawable-xhdpi\pc_trace_head_car.png" qualifiers="xhdpi-v4" type="drawable"/><file name="seekbar_cricle_btn" path="D:\Template\library\src\main\res\drawable-xhdpi\seekbar_cricle_btn.png" qualifiers="xhdpi-v4" type="drawable"/><file name="taxi_heade" path="D:\Template\library\src\main\res\drawable-xhdpi\taxi_heade.png" qualifiers="xhdpi-v4" type="drawable"/><file name="toggle_btn_checked" path="D:\Template\library\src\main\res\drawable-xhdpi\toggle_btn_checked.png" qualifiers="xhdpi-v4" type="drawable"/><file name="toggle_btn_unchecked" path="D:\Template\library\src\main\res\drawable-xhdpi\toggle_btn_unchecked.png" qualifiers="xhdpi-v4" type="drawable"/><file name="top_tb_back" path="D:\Template\library\src\main\res\drawable-xhdpi\top_tb_back.png" qualifiers="xhdpi-v4" type="drawable"/><file name="widget_input_clear_off" path="D:\Template\library\src\main\res\drawable-xhdpi\widget_input_clear_off.png" qualifiers="xhdpi-v4" type="drawable"/><file name="widget_input_clear_on" path="D:\Template\library\src\main\res\drawable-xhdpi\widget_input_clear_on.png" qualifiers="xhdpi-v4" type="drawable"/><file name="widget_waiting" path="D:\Template\library\src\main\res\drawable-xhdpi\widget_waiting.png" qualifiers="xhdpi-v4" type="drawable"/><file name="dianji_hide" path="D:\Template\library\src\main\res\drawable-xxhdpi\dianji_hide.jpg" qualifiers="xxhdpi-v4" type="drawable"/><file name="dianji_show" path="D:\Template\library\src\main\res\drawable-xxhdpi\dianji_show.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ditu_background" path="D:\Template\library\src\main\res\drawable-xxhdpi\ditu_background.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ditu_sepration" path="D:\Template\library\src\main\res\drawable-xxhdpi\ditu_sepration.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="duihuakuang_location" path="D:\Template\library\src\main\res\drawable-xxhdpi\duihuakuang_location.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="guiji_heng_new" path="D:\Template\library\src\main\res\drawable-xxhdpi\guiji_heng_new.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="guiji_kong" path="D:\Template\library\src\main\res\drawable-xxhdpi\guiji_kong.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="guiji_luwang" path="D:\Template\library\src\main\res\drawable-xxhdpi\guiji_luwang.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="guiji_next" path="D:\Template\library\src\main\res\drawable-xxhdpi\guiji_next.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="guiji_shiji_new" path="D:\Template\library\src\main\res\drawable-xxhdpi\guiji_shiji_new.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="guiji_shu_new" path="D:\Template\library\src\main\res\drawable-xxhdpi\guiji_shu_new.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="guiji_zhong" path="D:\Template\library\src\main\res\drawable-xxhdpi\guiji_zhong.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="heade_roate_03" path="D:\Template\library\src\main\res\drawable-xxhdpi\heade_roate_03.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_arrow_back_white_24dp" path="D:\Template\library\src\main\res\drawable-xxhdpi\ic_arrow_back_white_24dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_fullscreen_grey_400_24dp" path="D:\Template\library\src\main\res\drawable-xxhdpi\ic_fullscreen_grey_400_24dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="jian_ditu" path="D:\Template\library\src\main\res\drawable-xxhdpi\jian_ditu.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="jia_ditu" path="D:\Template\library\src\main\res\drawable-xxhdpi\jia_ditu.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="left" path="D:\Template\library\src\main\res\drawable-xxhdpi\left.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="mine_position" path="D:\Template\library\src\main\res\drawable-xxhdpi\mine_position.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="right" path="D:\Template\library\src\main\res\drawable-xxhdpi\right.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="weizhang_check" path="D:\Template\library\src\main\res\drawable-xxhdpi\weizhang_check.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="weizhang_enforcement" path="D:\Template\library\src\main\res\drawable-xxhdpi\weizhang_enforcement.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="weizhang_query" path="D:\Template\library\src\main\res\drawable-xxhdpi\weizhang_query.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="wu" path="D:\Template\library\src\main\res\drawable-xxhdpi\wu.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_idcard" path="D:\Template\library\src\main\res\layout\activity_idcard.xml" qualifiers="" type="layout"/><file name="activity_law_select_location" path="D:\Template\library\src\main\res\layout\activity_law_select_location.xml" qualifiers="" type="layout"/><file name="common_waiting" path="D:\Template\library\src\main\res\layout\common_waiting.xml" qualifiers="" type="layout"/><file name="dialog_base" path="D:\Template\library\src\main\res\layout\dialog_base.xml" qualifiers="" type="layout"/><file name="dialog_base_sheet" path="D:\Template\library\src\main\res\layout\dialog_base_sheet.xml" qualifiers="" type="layout"/><file name="dialog_content_msg" path="D:\Template\library\src\main\res\layout\dialog_content_msg.xml" qualifiers="" type="layout"/><file name="dialog_item" path="D:\Template\library\src\main\res\layout\dialog_item.xml" qualifiers="" type="layout"/><file name="dialog_recreate_reason" path="D:\Template\library\src\main\res\layout\dialog_recreate_reason.xml" qualifiers="" type="layout"/><file name="footer" path="D:\Template\library\src\main\res\layout\footer.xml" qualifiers="" type="layout"/><file name="include_header" path="D:\Template\library\src\main\res\layout\include_header.xml" qualifiers="" type="layout"/><file name="include_pickerview_topbar" path="D:\Template\library\src\main\res\layout\include_pickerview_topbar.xml" qualifiers="" type="layout"/><file name="include_title" path="D:\Template\library\src\main\res\layout\include_title.xml" qualifiers="" type="layout"/><file name="infowindowlocation" path="D:\Template\library\src\main\res\layout\infowindowlocation.xml" qualifiers="" type="layout"/><file name="info_window_online_location" path="D:\Template\library\src\main\res\layout\info_window_online_location.xml" qualifiers="" type="layout"/><file name="layout_basepickerview" path="D:\Template\library\src\main\res\layout\layout_basepickerview.xml" qualifiers="" type="layout"/><file name="layout_camera_photo_dialog" path="D:\Template\library\src\main\res\layout\layout_camera_photo_dialog.xml" qualifiers="" type="layout"/><file name="layout_photo_dialog" path="D:\Template\library\src\main\res\layout\layout_photo_dialog.xml" qualifiers="" type="layout"/><file name="layout_tip" path="D:\Template\library\src\main\res\layout\layout_tip.xml" qualifiers="" type="layout"/><file name="listaddressadapter" path="D:\Template\library\src\main\res\layout\listaddressadapter.xml" qualifiers="" type="layout"/><file name="location_item" path="D:\Template\library\src\main\res\layout\location_item.xml" qualifiers="" type="layout"/><file name="pickerview_options" path="D:\Template\library\src\main\res\layout\pickerview_options.xml" qualifiers="" type="layout"/><file name="pickerview_time" path="D:\Template\library\src\main\res\layout\pickerview_time.xml" qualifiers="" type="layout"/><file name="single_choise_list" path="D:\Template\library\src\main\res\layout\single_choise_list.xml" qualifiers="" type="layout"/><file path="D:\Template\library\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="StickyScrollView">
+        <attr format="dimension" name="stuckShadowHeight"/>
+        <attr format="reference" name="stuckShadowDrawable"/>
+    </declare-styleable><declare-styleable name="TextSwitch">
+        <attr format="string" name="textOn"/>
+        <attr format="string" name="textOff"/>
+        <attr format="reference" name="thumb"/>
+        <attr format="boolean" name="checked"/>
+        <attr format="dimension" name="textSize"/>
+        <attr format="color" name="checked_textColor"/>
+        <attr format="color" name="unchecked_textColor"/>
+        <attr format="dimension" name="text_margin"/>
+    </declare-styleable><declare-styleable name="ThreeStateSwitch">
+        
+        <attr format="reference" name="critical_track"/>
+        
+        <attr format="enum" name="state">
+            <enum name="state_on" value="0"/>
+            <enum name="state_critical" value="1"/>
+            <enum name="state_off" value="2"/>
+        </attr>
+    </declare-styleable><declare-styleable name="CustomTabItem">
+        <attr name="android:text"/>
+        <attr name="android:icon"/>
+        <attr name="android:layout"/>
+    </declare-styleable><declare-styleable name="FixedIndicatorTabLayout">
+        <attr format="color" name="tabIndicatorColor"/>
+        <attr format="dimension" name="tabIndicatorHeight"/>
+        <attr format="dimension" name="tabIndicatorWidth"/>
+        <attr format="dimension" name="tabContentStart"/>
+        <attr format="reference" name="tabBackground"/>
+        <attr name="tab_mode">
+            <enum name="scrollable" value="0"/>
+            <enum name="fixed" value="1"/>
+        </attr>
+        <attr name="tab_gravity">
+            <enum name="fill" value="0"/>
+            <enum name="center" value="1"/>
+        </attr>
+        <attr format="dimension" name="tabMinWidth"/>
+        <attr format="dimension" name="tabMaxWidth"/>
+        <attr format="reference" name="tabTextAppearance"/>
+        <attr format="color" name="tabTextColor"/>
+        <attr format="color" name="tabSelectedTextColor"/>
+        <attr format="dimension" name="tabPaddingStart"/>
+        <attr format="dimension" name="tabPaddingTop"/>
+        <attr format="dimension" name="tabPaddingEnd"/>
+        <attr format="dimension" name="tabPaddingBottom"/>
+        <attr format="dimension" name="tabPadding"/>
+    </declare-styleable><declare-styleable name="pickerview">
+        <attr name="wheelview_gravity">
+            <enum name="center" value="17"/>
+            <enum name="left" value="3"/>
+            <enum name="right" value="5"/>
+        </attr>
+        <attr format="dimension" name="wheelview_textSize"/>
+        <attr format="color" name="wheelview_textColorOut"/>
+        <attr format="color" name="wheelview_textColorCenter"/>
+        <attr format="color" name="wheelview_dividerColor"/>
+        <attr format="float" name="wheelview_lineSpacingMultiplier"/>
+    </declare-styleable></file><file path="D:\Template\library\src\main\res\values\colors.xml" qualifiers=""><color name="gray_white">#d3d3d3</color><color name="pickerview_topbar_title">#000000</color><color name="pickerview_bgColor_overlay">#60000000</color><color name="title_btn_color">#B2f8f8f8</color><color name="white">#ffffff</color><color name="seekbar_color">#ff4c6df8</color><color name="bg_color">#eeeeee</color><color name="color333">#333333</color><color name="colorff41c3d6">#41c3d6</color><color name="color666">#666666</color><color name="colorFF3939">#FF3939</color><color name="divide_color">#dddddd</color><color name="light_blue">#41C3D6</color><color name="pop_window">#35ACBD</color><color name="map_line">#6198FB</color><color name="address_link">#0000ee</color><color name="color999">#999999</color><color name="lucency">#00000000</color><color name="kong_lujin_color">#15aa36</color><color name="zhong_lujin_color">#c984ba</color><color name="gray">#818181</color><color name="jiean_btn_color">#00a7d9</color><color name="transparent">#00000000</color></file><file path="D:\Template\library\src\main\res\values\dimens.xml" qualifiers=""><dimen name="pickerview_textsize">20sp</dimen></file><file path="D:\Template\library\src\main\res\values\strings.xml" qualifiers=""><string name="unknown_error">未知错误</string><string name="dialog_ok">确定</string><string name="dialog_cancel">取消</string><string name="dialog_title">提示</string><string name="tip_content_title">可组合选择文书:</string><string name="tip_content_writ1">1.现场检查笔录(路检) 先行登记通知书</string><string name="tip_content_writ12"> 扣押车辆交接单</string><string name="tip_content_writ2">2.现场检查笔录(路检) 扣押车辆决定书</string><string name="tip_content_writ22"> 现场笔录 扣押车辆交接单</string><string name="tip_content_writ3">3.现场检查笔录(路检) 谈话通知书</string><string name="tip_content_notice">注: 选择文书时不可进行交叉组合</string><string name="tip_i_know">我知道了</string><string name="tip">提示</string><string name="rule_tip">文书选择规则？</string><string name="pickerview_cancel">取消</string><string name="pickerview_submit">确定</string><string name="pickerview_year">年</string><string name="pickerview_month">月</string><string name="pickerview_day">日</string><string name="pickerview_hours">时</string><string name="pickerview_minutes">分</string><string name="pickerview_seconds">秒</string><string name="pc_item_detail">详情</string><string name="idcard_name">姓        名：</string><string name="idcard_no">证件号码：</string><string name="idcard_sex">性        别：</string><string name="idcard_nation">民        族：</string><string name="idcard_birthday">出生日期：</string><string name="idcard_address">住        址：</string><string name="idcard_organ">签发机关：</string><string name="idcard_validdate">有效期限：</string><string name="idcard_fingerprint">指        纹：</string><string name="idcard_passnum">通行证号：</string><string name="idcard_visa_num">签发次数：</string><string name="idcard_name_append">姓        名： %s</string><string name="idcard_no_append">证件号码： %s</string><string name="idcard_sex_append">性       别： %s</string><string name="idcard_nation_append">民       族： %s</string><string name="idcard_birthday_append">出生日期： %s</string><string name="idcard_address_append">住       址： %s</string><string name="idcard_organ_append">签发机关： %s</string><string name="idcard_validdate_append">有效期限： %s</string><string name="idcard_fingerprint_append">指       纹： %s</string><string name="idcard_passnum_append">通行证号： %s</string><string name="idcard_visa_num_append">签发次数： %s</string></file><file path="D:\Template\library\src\main\res\values\styles.xml" qualifiers=""><style name="dialog_btn">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_width">120dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:padding">10dp</item>
+    </style><style name="dialog_sheet_btn">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">10dp</item>
+    </style><style name="popupAnimation" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/abc_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/abc_fade_out</item>
+    </style><style name="pagerDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>    
+        <item name="android:windowIsFloating">false</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light"/><style name="AppTheme" parent="AppBaseTheme">
+
+        
+        <item name="android:windowNoTitle">true</item>
+    </style><style name="clean_dialog" parent="@style/AppTheme">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style><style name="sheet_dialog" parent="@style/clean_dialog">
+        <item name="android:windowAnimationStyle">@style/sheet_anim</item>
+    </style><style name="sheet_anim" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/slide_in_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_to_bottom</item>
+    </style><style name="CommonButtonStyle">
+        <item name="android:textColor">#FFFEFE</item>
+        <item name="android:textSize">19sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_height">42dp</item>
+        <item name="android:background">@drawable/bg_common_button_shape</item>
+    </style><style name="SureButtonStyle" parent="CommonButtonStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginEnd">14dp</item>
+        <item name="android:layout_marginStart">14dp</item>
+        <item name="android:layout_marginTop">23dp</item>
+    </style><style name="BottomDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.8</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@null</item>
+    </style><style name="TimeLineDialog" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.8</item>
+    </style><style name="custom_dialog2" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:windowIsFloating">true</item>
+        
+        <item name="android:windowIsTranslucent">true</item>
+        
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        
+        <item name="android:backgroundDimEnabled">true</item>
+        
+        <item name="android:backgroundDimAmount">0.3</item>
+    </style><style name="dialog_activity" parent="@android:style/Theme.Dialog">
+
+
+        <item name="android:windowIsFloating">true</item>
+
+        <item name="android:windowIsTranslucent">false</item>
+
+        <item name="android:windowNoTitle">true</item>
+
+        
+
+        <item name="android:windowBackground">@android:color/transparent</item>
+
+    </style><style mce_bogus="1" name="picker_view_scale_anim" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/pickerview_dialog_scale_in</item>
+        <item name="android:windowExitAnimation">@anim/pickerview_dialog_scale_out</item>
+    </style><style name="mystyle" parent="android:Animation">
+        
+        <item name="android:windowEnterAnimation">@anim/dialog_enter</item>
+        
+        <item name="android:windowExitAnimation">@anim/dialog_exit</item>
+    </style><declare-styleable name="BubbleSeekBar">
+        <attr format="float|reference" name="bsb_min"/> 
+        <attr format="float|reference" name="bsb_max"/> 
+        <attr format="float|reference" name="bsb_progress"/> 
+        <attr format="boolean" name="bsb_is_float_type"/> 
+        <attr format="dimension|reference" name="bsb_track_size"/> 
+        
+        <attr format="dimension|reference" name="bsb_second_track_size"/>
+        <attr format="dimension|reference" name="bsb_thumb_radius"/> 
+        
+        <attr format="dimension|reference" name="bsb_thumb_radius_on_dragging"/>
+        <attr format="color|reference" name="bsb_track_color"/> 
+        <attr format="color|reference" name="bsb_second_track_color"/> 
+        <attr format="color|reference" name="bsb_thumb_color"/> 
+        <attr format="integer|reference" name="bsb_section_count"/> 
+        <attr format="boolean" name="bsb_show_section_mark"/> 
+        <attr format="boolean" name="bsb_auto_adjust_section_mark"/> 
+        <attr format="boolean" name="bsb_show_section_text"/> 
+        <attr format="dimension|reference" name="bsb_section_text_size"/> 
+        <attr format="color|reference" name="bsb_section_text_color"/> 
+        
+        <attr name="bsb_section_text_position">
+            <enum name="sides" value="0"/>
+            <enum name="bottom_sides" value="1"/>
+            <enum name="below_section_mark" value="2"/>
+        </attr>
+        <attr format="integer" name="bsb_section_text_interval"/> 
+        <attr format="boolean" name="bsb_show_thumb_text"/> 
+        <attr format="dimension|reference" name="bsb_thumb_text_size"/> 
+        <attr format="color|reference" name="bsb_thumb_text_color"/> 
+        <attr format="boolean" name="bsb_show_progress_in_float"/> 
+        <attr format="boolean" name="bsb_touch_to_seek"/> 
+        <attr format="boolean" name="bsb_seek_step_section"/> 
+        <attr format="boolean" name="bsb_seek_by_section"/> 
+        <attr format="color|reference" name="bsb_bubble_color"/> 
+        <attr format="dimension|reference" name="bsb_bubble_text_size"/> 
+        <attr format="color|reference" name="bsb_bubble_text_color"/> 
+        <attr format="integer" name="bsb_anim_duration"/> 
+        <attr format="boolean" name="bsb_always_show_bubble"/> 
+        <attr format="integer" name="bsb_always_show_bubble_delay"/> 
+        <attr format="boolean" name="bsb_hide_bubble"/> 
+        <attr format="boolean" name="bsb_rtl"/> 
+        <attr name="android:enabled"/>
+    </declare-styleable></file><file name="device_filter" path="D:\Template\library\src\main\res\xml\device_filter.xml" qualifiers="" type="xml"/></source><source path="D:\Template\library\build\generated\res\rs\debug"/><source path="D:\Template\library\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Template\library\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Template\library\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="FixedIndicatorTabLayout">
+        <attr format="color" name="tabIndicatorColor"/>
+        <attr format="dimension" name="tabIndicatorHeight"/>
+        <attr format="dimension" name="tabIndicatorWidth"/>
+        <attr format="dimension" name="tabContentStart"/>
+        <attr format="reference" name="tabBackground"/>
+        <attr name="tab_mode">
+            <enum name="scrollable" value="0"/>
+            <enum name="fixed" value="1"/>
+        </attr>
+        <attr name="tab_gravity">
+            <enum name="fill" value="0"/>
+            <enum name="center" value="1"/>
+        </attr>
+        <attr format="dimension" name="tabMinWidth"/>
+        <attr format="dimension" name="tabMaxWidth"/>
+        <attr format="reference" name="tabTextAppearance"/>
+        <attr format="color" name="tabTextColor"/>
+        <attr format="color" name="tabSelectedTextColor"/>
+        <attr format="dimension" name="tabPaddingStart"/>
+        <attr format="dimension" name="tabPaddingTop"/>
+        <attr format="dimension" name="tabPaddingEnd"/>
+        <attr format="dimension" name="tabPaddingBottom"/>
+        <attr format="dimension" name="tabPadding"/>
+    </declare-styleable><declare-styleable name="ThreeStateSwitch">
+        
+        <attr format="reference" name="critical_track"/>
+        
+        <attr format="enum" name="state">
+            <enum name="state_on" value="0"/>
+            <enum name="state_critical" value="1"/>
+            <enum name="state_off" value="2"/>
+        </attr>
+    </declare-styleable><declare-styleable name="StickyScrollView">
+        <attr format="dimension" name="stuckShadowHeight"/>
+        <attr format="reference" name="stuckShadowDrawable"/>
+    </declare-styleable><declare-styleable name="CustomTabItem">
+        <attr name="android:text"/>
+        <attr name="android:icon"/>
+        <attr name="android:layout"/>
+    </declare-styleable><declare-styleable name="TextSwitch">
+        <attr format="string" name="textOn"/>
+        <attr format="string" name="textOff"/>
+        <attr format="reference" name="thumb"/>
+        <attr format="boolean" name="checked"/>
+        <attr format="dimension" name="textSize"/>
+        <attr format="color" name="checked_textColor"/>
+        <attr format="color" name="unchecked_textColor"/>
+        <attr format="dimension" name="text_margin"/>
+    </declare-styleable><declare-styleable name="BubbleSeekBar">
+        <attr format="float|reference" name="bsb_min"/> 
+        <attr format="float|reference" name="bsb_max"/> 
+        <attr format="float|reference" name="bsb_progress"/> 
+        <attr format="boolean" name="bsb_is_float_type"/> 
+        <attr format="dimension|reference" name="bsb_track_size"/> 
+        
+        <attr format="dimension|reference" name="bsb_second_track_size"/>
+        <attr format="dimension|reference" name="bsb_thumb_radius"/> 
+        
+        <attr format="dimension|reference" name="bsb_thumb_radius_on_dragging"/>
+        <attr format="color|reference" name="bsb_track_color"/> 
+        <attr format="color|reference" name="bsb_second_track_color"/> 
+        <attr format="color|reference" name="bsb_thumb_color"/> 
+        <attr format="integer|reference" name="bsb_section_count"/> 
+        <attr format="boolean" name="bsb_show_section_mark"/> 
+        <attr format="boolean" name="bsb_auto_adjust_section_mark"/> 
+        <attr format="boolean" name="bsb_show_section_text"/> 
+        <attr format="dimension|reference" name="bsb_section_text_size"/> 
+        <attr format="color|reference" name="bsb_section_text_color"/> 
+        
+        <attr name="bsb_section_text_position">
+            <enum name="sides" value="0"/>
+            <enum name="bottom_sides" value="1"/>
+            <enum name="below_section_mark" value="2"/>
+        </attr>
+        <attr format="integer" name="bsb_section_text_interval"/> 
+        <attr format="boolean" name="bsb_show_thumb_text"/> 
+        <attr format="dimension|reference" name="bsb_thumb_text_size"/> 
+        <attr format="color|reference" name="bsb_thumb_text_color"/> 
+        <attr format="boolean" name="bsb_show_progress_in_float"/> 
+        <attr format="boolean" name="bsb_touch_to_seek"/> 
+        <attr format="boolean" name="bsb_seek_step_section"/> 
+        <attr format="boolean" name="bsb_seek_by_section"/> 
+        <attr format="color|reference" name="bsb_bubble_color"/> 
+        <attr format="dimension|reference" name="bsb_bubble_text_size"/> 
+        <attr format="color|reference" name="bsb_bubble_text_color"/> 
+        <attr format="integer" name="bsb_anim_duration"/> 
+        <attr format="boolean" name="bsb_always_show_bubble"/> 
+        <attr format="integer" name="bsb_always_show_bubble_delay"/> 
+        <attr format="boolean" name="bsb_hide_bubble"/> 
+        <attr format="boolean" name="bsb_rtl"/> 
+        <attr name="android:enabled"/>
+    </declare-styleable><declare-styleable name="pickerview">
+        <attr name="wheelview_gravity">
+            <enum name="center" value="17"/>
+            <enum name="left" value="3"/>
+            <enum name="right" value="5"/>
+        </attr>
+        <attr format="dimension" name="wheelview_textSize"/>
+        <attr format="color" name="wheelview_textColorOut"/>
+        <attr format="color" name="wheelview_textColorCenter"/>
+        <attr format="color" name="wheelview_dividerColor"/>
+        <attr format="float" name="wheelview_lineSpacingMultiplier"/>
+    </declare-styleable></configuration></mergedItems></merger>

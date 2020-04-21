@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="address_link">#0000ee</color>
+    <color name="bg_color">#eeeeee</color>
+    <color name="color333">#333333</color>
+    <color name="color666">#666666</color>
+    <color name="color999">#999999</color>
+    <color name="colorFF3939">#FF3939</color>
+    <color name="colorff41c3d6">#41c3d6</color>
+    <color name="divide_color">#dddddd</color>
+    <color name="gray">#818181</color>
+    <color name="gray_white">#d3d3d3</color>
+    <color name="jiean_btn_color">#00a7d9</color>
+    <color name="kong_lujin_color">#15aa36</color>
+    <color name="light_blue">#41C3D6</color>
+    <color name="lucency">#00000000</color>
+    <color name="map_line">#6198FB</color>
+    <color name="pickerview_bgColor_overlay">#60000000</color>
+    <color name="pickerview_topbar_title">#000000</color>
+    <color name="pop_window">#35ACBD</color>
+    <color name="seekbar_color">#ff4c6df8</color>
+    <color name="title_btn_color">#B2f8f8f8</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="zhong_lujin_color">#c984ba</color>
+    <declare-styleable name="BubbleSeekBar">
+        <attr format="float|reference" name="bsb_min"/> <!--min < max, default: 0.0f-->
+        <attr format="float|reference" name="bsb_max"/> <!--min < max, default: 100.0f-->
+        <attr format="float|reference" name="bsb_progress"/> <!--real time progress value, default: min-->
+        <attr format="boolean" name="bsb_is_float_type"/> <!--support for float type-->
+        <attr format="dimension|reference" name="bsb_track_size"/> <!--height of right-track(on the right of thumb), default: 2dp-->
+        <!--height of left-track(on the left of thumb), default: 2dp higher than right-track's height-->
+        <attr format="dimension|reference" name="bsb_second_track_size"/>
+        <attr format="dimension|reference" name="bsb_thumb_radius"/> <!--radius of thumb, default: 2dp higher than left-track's height-->
+        <!--radius of thumb when be dragging, default: 2 times of left-track's height-->
+        <attr format="dimension|reference" name="bsb_thumb_radius_on_dragging"/>
+        <attr format="color|reference" name="bsb_track_color"/> <!--color of right-track, default: R.color.colorPrimary-->
+        <attr format="color|reference" name="bsb_second_track_color"/> <!--color of left-track, default: R.color.colorAccent-->
+        <attr format="color|reference" name="bsb_thumb_color"/> <!--color of thumb, default: same as left-track's color-->
+        <attr format="integer|reference" name="bsb_section_count"/> <!--shares of whole progress(max - min), default: 10-->
+        <attr format="boolean" name="bsb_show_section_mark"/> <!--show demarcation points or not, default: false-->
+        <attr format="boolean" name="bsb_auto_adjust_section_mark"/> <!--auto scroll to the nearest section_mark or not, default: false-->
+        <attr format="boolean" name="bsb_show_section_text"/> <!--show section-text or not, default: false-->
+        <attr format="dimension|reference" name="bsb_section_text_size"/> <!--text size of section-text, default: 14sp-->
+        <attr format="color|reference" name="bsb_section_text_color"/> <!--text color of section-text, default: same as right-track's color-->
+        <!--text position of section-text relative to track, sides, bottom_sides, below_section_mark, default: sides-->
+        <attr name="bsb_section_text_position">
+            <enum name="sides" value="0"/>
+            <enum name="bottom_sides" value="1"/>
+            <enum name="below_section_mark" value="2"/>
+        </attr>
+        <attr format="integer" name="bsb_section_text_interval"/> <!--the interval of two section-text, default: 1-->
+        <attr format="boolean" name="bsb_show_thumb_text"/> <!--show real time progress-text under thumb or not, default: false-->
+        <attr format="dimension|reference" name="bsb_thumb_text_size"/> <!--text size of progress-text, default: 14sp-->
+        <attr format="color|reference" name="bsb_thumb_text_color"/> <!--text color of progress-text, default: same as left-track's color-->
+        <attr format="boolean" name="bsb_show_progress_in_float"/> <!--show bubble-progress in float or not, default: false-->
+        <attr format="boolean" name="bsb_touch_to_seek"/> <!--touch anywhere on track to quickly seek, default: false-->
+        <attr format="boolean" name="bsb_seek_step_section"/> <!--seek one step by one section, the progress is discrete, default: false-->
+        <attr format="boolean" name="bsb_seek_by_section"/> <!--seek by section, the progress may not be linear, default: false-->
+        <attr format="color|reference" name="bsb_bubble_color"/> <!--color of bubble, default: same as left-track's color-->
+        <attr format="dimension|reference" name="bsb_bubble_text_size"/> <!--text size of bubble-progress, default: 14sp-->
+        <attr format="color|reference" name="bsb_bubble_text_color"/> <!--text color of bubble-progress, default: #ffffffff-->
+        <attr format="integer" name="bsb_anim_duration"/> <!--duration of animation, default: 200ms-->
+        <attr format="boolean" name="bsb_always_show_bubble"/> <!--bubble shows all time, default: false-->
+        <attr format="integer" name="bsb_always_show_bubble_delay"/> <!--the delay duration before bubble shows all the time, default: 200ms-->
+        <attr format="boolean" name="bsb_hide_bubble"/> <!--hide bubble, default: false-->
+        <attr format="boolean" name="bsb_rtl"/> <!--right to left, default: false-->
+        <attr name="android:enabled"/>
+    </declare-styleable>
+    <declare-styleable name="CustomTabItem">
+        <attr name="android:text"/>
+        <attr name="android:icon"/>
+        <attr name="android:layout"/>
+    </declare-styleable>
+    <declare-styleable name="FixedIndicatorTabLayout">
+        <attr format="color" name="tabIndicatorColor"/>
+        <attr format="dimension" name="tabIndicatorHeight"/>
+        <attr format="dimension" name="tabIndicatorWidth"/>
+        <attr format="dimension" name="tabContentStart"/>
+        <attr format="reference" name="tabBackground"/>
+        <attr name="tab_mode">
+            <enum name="scrollable" value="0"/>
+            <enum name="fixed" value="1"/>
+        </attr>
+        <attr name="tab_gravity">
+            <enum name="fill" value="0"/>
+            <enum name="center" value="1"/>
+        </attr>
+        <attr format="dimension" name="tabMinWidth"/>
+        <attr format="dimension" name="tabMaxWidth"/>
+        <attr format="reference" name="tabTextAppearance"/>
+        <attr format="color" name="tabTextColor"/>
+        <attr format="color" name="tabSelectedTextColor"/>
+        <attr format="dimension" name="tabPaddingStart"/>
+        <attr format="dimension" name="tabPaddingTop"/>
+        <attr format="dimension" name="tabPaddingEnd"/>
+        <attr format="dimension" name="tabPaddingBottom"/>
+        <attr format="dimension" name="tabPadding"/>
+    </declare-styleable>
+    <declare-styleable name="StickyScrollView">
+        <attr format="dimension" name="stuckShadowHeight"/>
+        <attr format="reference" name="stuckShadowDrawable"/>
+    </declare-styleable>
+    <declare-styleable name="TextSwitch">
+        <attr format="string" name="textOn"/>
+        <attr format="string" name="textOff"/>
+        <attr format="reference" name="thumb"/>
+        <attr format="boolean" name="checked"/>
+        <attr format="dimension" name="textSize"/>
+        <attr format="color" name="checked_textColor"/>
+        <attr format="color" name="unchecked_textColor"/>
+        <attr format="dimension" name="text_margin"/>
+    </declare-styleable>
+    <declare-styleable name="ThreeStateSwitch">
+        <!-- 临界状态下滑轨图片 -->
+        <attr format="reference" name="critical_track"/>
+        <!-- 开关状态 -->
+        <attr format="enum" name="state">
+            <enum name="state_on" value="0"/>
+            <enum name="state_critical" value="1"/>
+            <enum name="state_off" value="2"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="pickerview">
+        <attr name="wheelview_gravity">
+            <enum name="center" value="17"/>
+            <enum name="left" value="3"/>
+            <enum name="right" value="5"/>
+        </attr>
+        <attr format="dimension" name="wheelview_textSize"/>
+        <attr format="color" name="wheelview_textColorOut"/>
+        <attr format="color" name="wheelview_textColorCenter"/>
+        <attr format="color" name="wheelview_dividerColor"/>
+        <attr format="float" name="wheelview_lineSpacingMultiplier"/>
+    </declare-styleable>
+    <dimen name="pickerview_textsize">20sp</dimen>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_ok">确定</string>
+    <string name="dialog_title">提示</string>
+    <string name="idcard_address">住        址：</string>
+    <string name="idcard_address_append">住       址： %s</string>
+    <string name="idcard_birthday">出生日期：</string>
+    <string name="idcard_birthday_append">出生日期： %s</string>
+    <string name="idcard_fingerprint">指        纹：</string>
+    <string name="idcard_fingerprint_append">指       纹： %s</string>
+    <string name="idcard_name">姓        名：</string>
+    <string name="idcard_name_append">姓        名： %s</string>
+    <string name="idcard_nation">民        族：</string>
+    <string name="idcard_nation_append">民       族： %s</string>
+    <string name="idcard_no">证件号码：</string>
+    <string name="idcard_no_append">证件号码： %s</string>
+    <string name="idcard_organ">签发机关：</string>
+    <string name="idcard_organ_append">签发机关： %s</string>
+    <string name="idcard_passnum">通行证号：</string>
+    <string name="idcard_passnum_append">通行证号： %s</string>
+    <string name="idcard_sex">性        别：</string>
+    <string name="idcard_sex_append">性       别： %s</string>
+    <string name="idcard_validdate">有效期限：</string>
+    <string name="idcard_validdate_append">有效期限： %s</string>
+    <string name="idcard_visa_num">签发次数：</string>
+    <string name="idcard_visa_num_append">签发次数： %s</string>
+    <string name="pc_item_detail">详情</string>
+    <string name="pickerview_cancel">取消</string>
+    <string name="pickerview_day">日</string>
+    <string name="pickerview_hours">时</string>
+    <string name="pickerview_minutes">分</string>
+    <string name="pickerview_month">月</string>
+    <string name="pickerview_seconds">秒</string>
+    <string name="pickerview_submit">确定</string>
+    <string name="pickerview_year">年</string>
+    <string name="rule_tip">文书选择规则？</string>
+    <string name="tip">提示</string>
+    <string name="tip_content_notice">注: 选择文书时不可进行交叉组合</string>
+    <string name="tip_content_title">可组合选择文书:</string>
+    <string name="tip_content_writ1">1.现场检查笔录(路检) 先行登记通知书</string>
+    <string name="tip_content_writ12"> 扣押车辆交接单</string>
+    <string name="tip_content_writ2">2.现场检查笔录(路检) 扣押车辆决定书</string>
+    <string name="tip_content_writ22"> 现场笔录 扣押车辆交接单</string>
+    <string name="tip_content_writ3">3.现场检查笔录(路检) 谈话通知书</string>
+    <string name="tip_i_know">我知道了</string>
+    <string name="unknown_error">未知错误</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light"/>
+    <style name="AppTheme" parent="AppBaseTheme">
+
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="BottomDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.8</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+    <style name="CommonButtonStyle">
+        <item name="android:textColor">#FFFEFE</item>
+        <item name="android:textSize">19sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_height">42dp</item>
+        <item name="android:background">@drawable/bg_common_button_shape</item>
+    </style>
+    <style name="SureButtonStyle" parent="CommonButtonStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginEnd">14dp</item>
+        <item name="android:layout_marginStart">14dp</item>
+        <item name="android:layout_marginTop">23dp</item>
+    </style>
+    <style name="TimeLineDialog" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.8</item>
+    </style>
+    <style name="clean_dialog" parent="@style/AppTheme">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+    <style name="custom_dialog2" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <!-- Dialog的windowFrame框为无 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否漂现在activity上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 是否半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 去除黑色边框的关键设置项 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 屏幕背景是否变暗 -->
+        <item name="android:backgroundDimAmount">0.3</item>
+    </style>
+    <style name="dialog_activity" parent="@android:style/Theme.Dialog">
+
+
+        <item name="android:windowIsFloating">true</item>
+
+        <item name="android:windowIsTranslucent">false</item>
+
+        <item name="android:windowNoTitle">true</item>
+
+        <!--
+         <item name="android:windowFrame">@null</item>
+         <item name="android:backgroundDimEnabled">false</item>
+
+       <item name="android:windowContentOverlay">@null</item>
+
+     <item name="android:background">@android:color/transparent</item>-->
+
+        <item name="android:windowBackground">@android:color/transparent</item>
+
+    </style>
+    <style name="dialog_btn">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_width">120dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:padding">10dp</item>
+    </style>
+    <style name="dialog_sheet_btn">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">10dp</item>
+    </style>
+    <style name="mystyle" parent="android:Animation">
+        <!--//进入时的动画-->
+        <item name="android:windowEnterAnimation">@anim/dialog_enter</item>
+        <!--//退出时的动画-->
+        <item name="android:windowExitAnimation">@anim/dialog_exit</item>
+    </style>
+    <style name="pagerDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>    <!--背景变暗-->
+        <item name="android:windowIsFloating">false</item>
+    </style>
+    <style mce_bogus="1" name="picker_view_scale_anim" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/pickerview_dialog_scale_in</item>
+        <item name="android:windowExitAnimation">@anim/pickerview_dialog_scale_out</item>
+    </style>
+    <style name="popupAnimation" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/abc_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/abc_fade_out</item>
+    </style>
+    <style name="sheet_anim" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/slide_in_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_to_bottom</item>
+    </style>
+    <style name="sheet_dialog" parent="@style/clean_dialog">
+        <item name="android:windowAnimationStyle">@style/sheet_anim</item>
+    </style>
+</resources>

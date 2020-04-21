@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Template\\library\\build\\intermediates\\res\\merged\\liteav_debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\gq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ffdf6cbeb97247e3aec87a6879f2e0df\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\Template\\library\\build\\intermediates\\res\\merged\\liteav_debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\gq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ffdf6cbeb97247e3aec87a6879f2e0df\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\Template\\library\\build\\intermediates\\res\\merged\\liteav_debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\gq\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\0398810cbc5a4c394ca9ec6aaa04e7a2\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "D:\\Template\\library\\build\\intermediates\\res\\merged\\liteav_debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\gq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ffdf6cbeb97247e3aec87a6879f2e0df\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\Template\\library\\build\\intermediates\\res\\merged\\liteav_debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\gq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ffdf6cbeb97247e3aec87a6879f2e0df\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\Template\\library\\build\\intermediates\\res\\merged\\liteav_debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\gq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ffdf6cbeb97247e3aec87a6879f2e0df\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\Template\\library\\build\\intermediates\\res\\merged\\liteav_debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\gq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ffdf6cbeb97247e3aec87a6879f2e0df\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\Template\\library\\build\\intermediates\\res\\merged\\liteav_debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\gq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ffdf6cbeb97247e3aec87a6879f2e0df\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\Template\\library\\build\\intermediates\\res\\merged\\liteav_debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\gq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ffdf6cbeb97247e3aec87a6879f2e0df\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\Template\\library\\build\\intermediates\\res\\merged\\liteav_debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\gq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ffdf6cbeb97247e3aec87a6879f2e0df\\res\\color-v23\\abc_tint_spinner.xml"
+    }
+]

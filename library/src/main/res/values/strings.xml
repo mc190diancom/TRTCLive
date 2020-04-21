@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">未知错误</string>
+    <string name="dialog_ok">确定</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_title">提示</string>
+
+    <string name="tip_content_title">可组合选择文书:</string>
+    <string name="tip_content_writ1">1.现场检查笔录(路检)&#8195;先行登记通知书</string>
+    <string name="tip_content_writ12">&#8195;扣押车辆交接单</string>
+    <string name="tip_content_writ2">2.现场检查笔录(路检)&#8195;扣押车辆决定书</string>
+    <string name="tip_content_writ22">&#8195;现场笔录&#8195;扣押车辆交接单</string>
+    <string name="tip_content_writ3">3.现场检查笔录(路检)&#8195;谈话通知书</string>
+    <string name="tip_content_notice">注: 选择文书时不可进行交叉组合</string>
+    <string name="tip_i_know">我知道了</string>
+    <string name="tip">提示</string>
+    <string name="rule_tip">文书选择规则？</string>
+    <!--日期控件-->
+    <string name="pickerview_cancel">取消</string>
+    <string name="pickerview_submit">确定</string>
+    <string name="pickerview_year">年</string>
+    <string name="pickerview_month">月</string>
+    <string name="pickerview_day">日</string>
+    <string name="pickerview_hours">时</string>
+    <string name="pickerview_minutes">分</string>
+    <string name="pickerview_seconds">秒</string>
+    <string name="pc_item_detail">详情</string>
+
+
+    <!--身份证指纹识别-->
+    <string name="idcard_name">姓&#160;&#160;&#160;&#160;&#8201;&#160;&#160;&#8201;名：</string>
+    <string name="idcard_no">证件号码：</string>
+    <string name="idcard_sex">性&#160;&#160;&#160;&#8201;&#160;&#160;&#8201;&#8201;别：</string>
+    <string name="idcard_nation">民&#160;&#160;&#160;&#8201;&#160;&#160;&#8201;&#8201;族：</string>
+    <string name="idcard_birthday">出生日期：</string>
+    <string name="idcard_address">住&#160;&#160;&#160;&#8201;&#160;&#160;&#8201;&#8201;址：</string>
+    <string name="idcard_organ">签发机关：</string>
+    <string name="idcard_validdate">有效期限：</string>
+    <string name="idcard_fingerprint">指&#160;&#160;&#160;&#8201;&#160;&#160;&#8201;&#8201;纹：</string>
+    <string name="idcard_passnum">通行证号：</string>
+    <string name="idcard_visa_num">签发次数：</string>
+    <string name="idcard_name_append">姓&#160;&#160;&#160;&#160;&#8201;&#160;&#160;&#8201;名：&#160;%s</string>
+    <string name="idcard_no_append">证件号码：&#160;%s</string>
+    <string name="idcard_sex_append">性&#160;&#160;&#160;&#8201;&#160;&#160;&#8201;别：&#160;%s</string>
+    <string name="idcard_nation_append">民&#160;&#160;&#160;&#8201;&#160;&#160;&#8201;族：&#160;%s</string>
+    <string name="idcard_birthday_append">出生日期：&#160;%s</string>
+    <string name="idcard_address_append">住&#160;&#160;&#160;&#8201;&#160;&#160;&#8201;址：&#160;%s</string>
+    <string name="idcard_organ_append">签发机关：&#160;%s</string>
+    <string name="idcard_validdate_append">有效期限：&#160;%s</string>
+    <string name="idcard_fingerprint_append">指&#160;&#160;&#160;&#8201;&#160;&#160;&#8201;纹：&#160;%s</string>
+    <string name="idcard_passnum_append">通行证号：&#160;%s</string>
+    <string name="idcard_visa_num_append">签发次数：&#160;%s</string>
+</resources>
